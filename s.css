@@ -28,3 +28,13 @@ h3{
                      
                       
                      }
+                     p{
+                              background-color: purple;
+                              border: 2px solid tomato;
+                              color: black;
+                              padding: 5px;
+                              text-align: justify;
+                              *{
+                                margin: 0px;
+                              }
+                     }
